@@ -1,0 +1,27 @@
+.profile {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  top: 80px;
+  left: 80px;
+}
+
+.profile__photo {
+}
+
+.profile__information {
+}
+
+.profile__name {
+}
+
+.profile__description {
+}
+
+.profile__edit-button {
+}
+
+.profile__edit-button_image {
+  width: 18.48px;
+  height: 3.21px;
+}
