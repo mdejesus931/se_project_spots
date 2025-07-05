@@ -14,5 +14,5 @@ Styling & Effects
 - BEM Naming Convention for Modular, reusable CSS for easy maintenance.
 - CSS Custom Properties for Variables for consistent colors, spacing, and themes.
 
-![Desktop view](images/spots-desktop-view.png)
-![mobile view](images/spots-mobile-view.png)
+![Desktop view screenshot](images/spots-desktop-view.png)
+![mobile view screenshot](images/spots-mobile-view.png)
